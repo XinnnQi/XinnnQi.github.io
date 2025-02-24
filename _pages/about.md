@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+Hi all! My name is Xin Qi [祁新]. I am Research Assistant in Zhejiang University, supervised by Prof. [Chunhua Shen](https://person.zju.edu.cn/chunhua?fulltext=%E6%B2%88%E6%98%A5%E5%8D%8E).  I obtained my B.S. degree in Biological Sciences from [Zhejiang University](https://www.zju.edu.cn/). I worked as an intern at Zhejiang University with Prof. [Ming Chen](https://person.zju.edu.cn/mchen).
+
+I am recently reading and discussing to decide my directions and welcoming a wide range of ideas to work on. Generally, my interests fall in the following topics:
+
 
 A data-driven personal website
 ======
